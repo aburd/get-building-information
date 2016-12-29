@@ -1,0 +1,17 @@
+{
+  "name": "get-descriptions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Aaron Burdick",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
